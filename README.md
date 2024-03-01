@@ -12,16 +12,18 @@ Página criada para a criadora de contéudo Amy! Veja seus posts recentes no Ins
 Site: https://amybookgram.netlify.app/
 
 
-## Autores
-
-- [@MichaelDu4rte](https://github.com/MichaelDu4rte)
-
-
 ## Funcionalidades
 
 - Links
 - Posts recentes
 - Recomendações
+
+
+## Autores
+
+- [@MichaelDu4rte](https://github.com/MichaelDu4rte)
+
+
 
 
 
