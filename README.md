@@ -3,7 +3,7 @@
 ## Screenshots
 
 ![alt text](https://i.imgur.com/ZMnAyVm.png)
-![alt text](https://i.imgur.com/xLg8kMu.png)
+![alt text](https://i.imgur.com/96v4PQ4.png)
 
 # Portfolio para criadora de conteudo Amy
 
